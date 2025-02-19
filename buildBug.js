@@ -1,0 +1,1 @@
+This error occurs when using the Expo CLI to build an Android APK.  The build process seems to hang indefinitely at a particular stage, without providing any clear error messages. The terminal shows no further progress updates, and the process only ends by force-quitting.
